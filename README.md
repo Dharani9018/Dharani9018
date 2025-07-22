@@ -1,9 +1,6 @@
 ## Hi there, I'm Dharani
 ### I like learning new things.
 
-![Shell](https://img.shields.io/badge/Shell-Scripting-informational?style=for-the-badge&logo=gnu-bash)
-![C](https://img.shields.io/badge/C.x-red?style=for-the-badge&logo=C)
-
 
 <!--
 **Dharani9018/Dharani9018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
