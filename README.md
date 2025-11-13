@@ -1,4 +1,18 @@
-## Hi there, I'm Dharani
+```
+______
+< hii >
+ ------
+  \
+   \
+       (\/)
+      (_o |
+       /  |
+       \  \______
+        \        )o
+         /|----- |
+         \|     /|
+```
+## I'm Dharani
 #### I like building and breaking things - and exploring how things work under the hood!
 #### tools-
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
